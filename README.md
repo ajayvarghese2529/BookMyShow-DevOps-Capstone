@@ -24,6 +24,14 @@ GitHub → Jenkins → Docker → AWS EKS → Prometheus → Grafana
 - GitHub
 
 ---
+## Key Highlights
+- Designed and implemented a complete CI/CD pipeline using Jenkins
+- Integrated static code analysis and security scanning into the pipeline
+- Built production-ready Docker images using multi-stage builds
+- Deployed and validated the application on AWS EKS
+- Implemented real-time monitoring using Prometheus and Grafana
+- Applied DevOps best practices for automation, observability, and scalability
+---
 
 ## CI/CD Pipeline Summary
 - GitHub push triggers Jenkins pipeline
@@ -52,10 +60,12 @@ GitHub → Jenkins → Docker → AWS EKS → Prometheus → Grafana
 ---
 
 ## Project Status
-✅ Phase 1 – Phase 10 Completed  
-⏸️ Project paused for cost optimization  
-🚀 Ready for evaluation and demo
+✅ End-to-end CI/CD pipeline successfully implemented  
+✅ Containerized application deployed and validated on AWS EKS  
+✅ Observability enabled with Prometheus and Grafana  
 
+This repository represents a complete, production-aligned DevOps implementation
+demonstrating CI/CD automation, container orchestration, and monitoring best practices.
 ---
 
 ## Author
