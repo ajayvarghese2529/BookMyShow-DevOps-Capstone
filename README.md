@@ -8,7 +8,7 @@ The objective is to design, build, deploy, and monitor a scalable application us
 ---
 
 ## Technology Stack
-- AWS (EC2, IAM, EKS)
+- AWS (EC2, IAM, EKS) 
 - Jenkins
 - Docker
 - Kubernetes
